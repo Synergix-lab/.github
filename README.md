@@ -3,14 +3,13 @@
 Welcome to **Synergix Lab**, the technology arm behind [Synerfiy](https://synergix.ch).  
 We are the engineers and builders powering the tools, platforms, and infrastructure that make Synerfiy thrive.
 
----
 
 ## 🧠 Who We Are
 
 Synergix Lab is the **official tech team of Synerfiy**.  
 We design, develop, and maintain all internal and external systems that support Synerfiy's operations, growth, and innovation.
 
----
+
 
 ## 🔧 What We Do
 
@@ -23,7 +22,6 @@ Our focus spans across:
 
 We code with purpose, build with care, and always aim for excellence.
 
----
 
 ## 📂 Repositories
 
@@ -36,15 +34,12 @@ You’ll find:
 
 Feel free to explore, fork, and contribute!
 
----
-
 ## 👥 Connect With Us
 
 - 🌐 [synergix.ch](https://synergix.ch) – Our main site  
 - ✉️ [info@synergix.ch](mailto:info@synergix.ch) – Contact us  
 - 💼 [LinkedIn](https://www.linkedin.com/company/synergix-sa/posts) – Stay connected  
 
----
 
 > _Tech is our language. Synerfiy is our mission._  
 > — The Synergix Lab Team
